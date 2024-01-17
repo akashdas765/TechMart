@@ -1,0 +1,409 @@
+Year,Month,ProductID,Product Name,Price,Brand,Quality(%),Category,Quantity Sold,Initial Quantity,Quantity Left
+2019,January,11,Apple Airpods with wireless charging case,14900,Apple,94,Accessories,50,100,50
+2019,January,12,Apple Watch Series 5,52900,Apple,87,Accessories,32,100,68
+2019,January,13,Bose SoundLink Revolve+,24500,Bose,80,Accessories,25,100,75
+2019,January,14,Segate 2TB External HardDrive,5499,Segate,92,Accessories,64,100,36
+2019,January,15,Sennheiser PXC550 Wireless,17900,Sennheiser,80,Accessories,55,100,45
+2019,January,16,Sony WH-1000XM3,24900,Sony,97,Accessories,33,100,67
+2019,January,21,HP Spectre X360,186990,HP,87,Laptops,30,100,70
+2019,January,22,Lenovo Ideapad S540,62000,Lenovo,91,Laptops,30,100,70
+2019,January,23,Lenovo Legion y540,65000,Lenovo,81,Laptops,30,100,70
+2019,January,24,Apple Macbook Air 13-inch,99900,Apple,95,Laptops,30,100,70
+2019,January,25,Apple Macbook Pro 15-inch,244990,Apple,94,Laptops,30,100,70
+2019,January,26,Razer Stealth Blade 13.3-inch,121000,Razer,85,Laptops,30,100,70
+2019,January,31,Apple iPhone 11,64900,Apple,92,Smartphones,30,100,70
+2019,January,32,Apple iPhone 11 PRO,99000,Apple,89,Smartphones,30,100,70
+2019,January,33,OnePlus 7 PRO,46000,OnePlus,90,Smartphones,30,100,70
+2019,January,34,OnePlus 7T PRO,53999,OnePlus,92,Smartphones,30,100,70
+2019,January,35,Samsung Galaxy Note 10+,79999,Samsung,79,Smartphones,30,100,70
+2019,January,36,Samsung Galaxy S10+,113900,Samsung,80,Smartphones,30,100,70
+2019,January,41,Canon EOS 1500D,25990,Canon,82,TV and Cams,30,100,70
+2019,January,42,LG 75-inch 4K UHD TV,241000,LG,97,TV and Cams,30,100,70
+2019,January,43,Nikon D5300 Digital SLR Camera,25499,Nikon,72,TV and Cams,30,100,70
+2019,January,44,OnePlus TV 55-inch,99900,OnePlus,87,TV and Cams,30,100,70
+2019,January,45,Samsung OLED TV,84000,Samsung,84,TV and Cams,30,100,70
+2019,January,46,Sony ALPHA ILCE-6400M,97990,Sony,92,TV and Cams,30,100,70
+2019,February,11,Apple Airpods with wireless charging case,14900,Apple,94,Accessories,50,100,50
+2019,February,12,Apple Watch Series 5,52900,Apple,87,Accessories,32,100,68
+2019,February,13,Bose SoundLink Revolve+,24500,Bose,80,Accessories,25,100,75
+2019,February,14,Segate 2TB External HardDrive,5499,Segate,92,Accessories,64,100,36
+2019,February,15,Sennheiser PXC550 Wireless,17900,Sennheiser,80,Accessories,30,100,70
+2019,February,16,Sony WH-1000XM3,24900,Sony,97,Accessories,30,100,70
+2019,February,21,HP Spectre X360,186990,HP,87,Laptops,30,100,70
+2019,February,22,Lenovo Ideapad S540,62000,Lenovo,91,Laptops,30,100,70
+2019,February,23,Lenovo Legion y540,65000,Lenovo,81,Laptops,30,100,70
+2019,February,24,Apple Macbook Air 13-inch,99900,Apple,95,Laptops,30,100,70
+2019,February,25,Apple Macbook Pro 15-inch,244990,Apple,94,Laptops,30,100,70
+2019,February,26,Razer Stealth Blade 13.3-inch,121000,Razer,85,Laptops,30,100,70
+2019,February,31,Apple iPhone 11,64900,Apple,92,Smartphones,30,100,70
+2019,February,32,Apple iPhone 11 PRO,99000,Apple,89,Smartphones,30,100,70
+2019,February,33,OnePlus 7 PRO,46000,OnePlus,90,Smartphones,30,100,70
+2019,February,34,OnePlus 7T PRO,53999,OnePlus,92,Smartphones,30,100,70
+2019,February,35,Samsung Galaxy Note 10+,79999,Samsung,79,Smartphones,30,100,70
+2019,February,36,Samsung Galaxy S10+,113900,Samsung,80,Smartphones,30,100,70
+2019,February,41,Canon EOS 1500D,25990,Canon,82,TV and Cams,30,100,70
+2019,February,42,LG 75-inch 4K UHD TV,241000,LG,97,TV and Cams,30,100,70
+2019,February,43,Nikon D5300 Digital SLR Camera,25499,Nikon,72,TV and Cams,30,100,70
+2019,February,44,OnePlus TV 55-inch,99900,OnePlus,87,TV and Cams,30,100,70
+2019,February,45,Samsung OLED TV,84000,Samsung,84,TV and Cams,30,100,70
+2019,February,46,Sony ALPHA ILCE-6400M,97990,Sony,92,TV and Cams,30,100,70
+2019,March,11,Apple Airpods with wireless charging case,14900,Apple,94,Accessories,50,100,50
+2019,March,12,Apple Watch Series 5,52900,Apple,87,Accessories,32,100,68
+2019,March,13,Bose SoundLink Revolve+,24500,Bose,80,Accessories,25,100,75
+2019,March,14,Segate 2TB External HardDrive,5499,Segate,92,Accessories,64,100,36
+2019,March,15,Sennheiser PXC550 Wireless,17900,Sennheiser,80,Accessories,30,100,70
+2019,March,16,Sony WH-1000XM3,24900,Sony,97,Accessories,30,100,70
+2019,March,21,HP Spectre X360,186990,HP,87,Laptops,30,100,70
+2019,March,22,Lenovo Ideapad S540,62000,Lenovo,91,Laptops,30,100,70
+2019,March,23,Lenovo Legion y540,65000,Lenovo,81,Laptops,30,100,70
+2019,March,24,Apple Macbook Air 13-inch,99900,Apple,95,Laptops,30,100,70
+2019,March,25,Apple Macbook Pro 15-inch,244990,Apple,94,Laptops,30,100,70
+2019,March,26,Razer Stealth Blade 13.3-inch,121000,Razer,85,Laptops,30,100,70
+2019,March,31,Apple iPhone 11,64900,Apple,92,Smartphones,30,100,70
+2019,March,32,Apple iPhone 11 PRO,99000,Apple,89,Smartphones,30,100,70
+2019,March,33,OnePlus 7 PRO,46000,OnePlus,90,Smartphones,30,100,70
+2019,March,34,OnePlus 7T PRO,53999,OnePlus,92,Smartphones,30,100,70
+2019,March,35,Samsung Galaxy Note 10+,79999,Samsung,79,Smartphones,30,100,70
+2019,March,36,Samsung Galaxy S10+,113900,Samsung,80,Smartphones,30,100,70
+2019,March,41,Canon EOS 1500D,25990,Canon,82,TV and Cams,30,100,70
+2019,March,42,LG 75-inch 4K UHD TV,241000,LG,97,TV and Cams,30,100,70
+2019,March,43,Nikon D5300 Digital SLR Camera,25499,Nikon,72,TV and Cams,30,100,70
+2019,March,44,OnePlus TV 55-inch,99900,OnePlus,87,TV and Cams,30,100,70
+2019,March,45,Samsung OLED TV,84000,Samsung,84,TV and Cams,30,100,70
+2019,March,46,Sony ALPHA ILCE-6400M,97990,Sony,92,TV and Cams,30,100,70
+2019,April,11,Apple Airpods with wireless charging case,14900,Apple,94,Accessories,50,100,50
+2019,April,12,Apple Watch Series 5,52900,Apple,87,Accessories,32,100,68
+2019,April,13,Bose SoundLink Revolve+,24500,Bose,80,Accessories,25,100,75
+2019,April,14,Segate 2TB External HardDrive,5499,Segate,92,Accessories,64,100,36
+2019,April,15,Sennheiser PXC550 Wireless,17900,Sennheiser,80,Accessories,30,100,70
+2019,April,16,Sony WH-1000XM3,24900,Sony,97,Accessories,30,100,70
+2019,April,21,HP Spectre X360,186990,HP,87,Laptops,30,100,70
+2019,April,22,Lenovo Ideapad S540,62000,Lenovo,91,Laptops,30,100,70
+2019,April,23,Lenovo Legion y540,65000,Lenovo,81,Laptops,30,100,70
+2019,April,24,Apple Macbook Air 13-inch,99900,Apple,95,Laptops,30,100,70
+2019,April,25,Apple Macbook Pro 15-inch,244990,Apple,94,Laptops,30,100,70
+2019,April,26,Razer Stealth Blade 13.3-inch,121000,Razer,85,Laptops,30,100,70
+2019,April,31,Apple iPhone 11,64900,Apple,92,Smartphones,30,100,70
+2019,April,32,Apple iPhone 11 PRO,99000,Apple,89,Smartphones,30,100,70
+2019,April,33,OnePlus 7 PRO,46000,OnePlus,90,Smartphones,30,100,70
+2019,April,34,OnePlus 7T PRO,53999,OnePlus,92,Smartphones,30,100,70
+2019,April,35,Samsung Galaxy Note 10+,79999,Samsung,79,Smartphones,30,100,70
+2019,April,36,Samsung Galaxy S10+,113900,Samsung,80,Smartphones,30,100,70
+2019,April,41,Canon EOS 1500D,25990,Canon,82,TV and Cams,30,100,70
+2019,April,42,LG 75-inch 4K UHD TV,241000,LG,97,TV and Cams,30,100,70
+2019,April,43,Nikon D5300 Digital SLR Camera,25499,Nikon,72,TV and Cams,30,100,70
+2019,April,44,OnePlus TV 55-inch,99900,OnePlus,87,TV and Cams,30,100,70
+2019,April,45,Samsung OLED TV,84000,Samsung,84,TV and Cams,30,100,70
+2019,April,46,Sony ALPHA ILCE-6400M,97990,Sony,92,TV and Cams,30,100,70
+2019,May,11,Apple Airpods with wireless charging case,14900,Apple,94,Accessories,50,100,50
+2019,May,12,Apple Watch Series 5,52900,Apple,87,Accessories,32,100,68
+2019,May,13,Bose SoundLink Revolve+,24500,Bose,80,Accessories,25,100,75
+2019,May,14,Segate 2TB External HardDrive,5499,Segate,92,Accessories,64,100,36
+2019,May,15,Sennheiser PXC550 Wireless,17900,Sennheiser,80,Accessories,30,100,70
+2019,May,16,Sony WH-1000XM3,24900,Sony,97,Accessories,30,100,70
+2019,May,21,HP Spectre X360,186990,HP,87,Laptops,30,100,70
+2019,May,22,Lenovo Ideapad S540,62000,Lenovo,91,Laptops,30,100,70
+2019,May,23,Lenovo Legion y540,65000,Lenovo,81,Laptops,30,100,70
+2019,May,24,Apple Macbook Air 13-inch,99900,Apple,95,Laptops,30,100,70
+2019,May,25,Apple Macbook Pro 15-inch,244990,Apple,94,Laptops,30,100,70
+2019,May,26,Razer Stealth Blade 13.3-inch,121000,Razer,85,Laptops,30,100,70
+2019,May,31,Apple iPhone 11,64900,Apple,92,Smartphones,30,100,70
+2019,May,32,Apple iPhone 11 PRO,99000,Apple,89,Smartphones,30,100,70
+2019,May,33,OnePlus 7 PRO,46000,OnePlus,90,Smartphones,30,100,70
+2019,May,34,OnePlus 7T PRO,53999,OnePlus,92,Smartphones,30,100,70
+2019,May,35,Samsung Galaxy Note 10+,79999,Samsung,79,Smartphones,30,100,70
+2019,May,36,Samsung Galaxy S10+,113900,Samsung,80,Smartphones,30,100,70
+2019,May,41,Canon EOS 1500D,25990,Canon,82,TV and Cams,30,100,70
+2019,May,42,LG 75-inch 4K UHD TV,241000,LG,97,TV and Cams,30,100,70
+2019,May,43,Nikon D5300 Digital SLR Camera,25499,Nikon,72,TV and Cams,30,100,70
+2019,May,44,OnePlus TV 55-inch,99900,OnePlus,87,TV and Cams,30,100,70
+2019,May,45,Samsung OLED TV,84000,Samsung,84,TV and Cams,30,100,70
+2019,May,46,Sony ALPHA ILCE-6400M,97990,Sony,92,TV and Cams,30,100,70
+2019,June,11,Apple Airpods with wireless charging case,14900,Apple,94,Accessories,50,100,50
+2019,June,12,Apple Watch Series 5,52900,Apple,87,Accessories,32,100,68
+2019,June,13,Bose SoundLink Revolve+,24500,Bose,80,Accessories,25,100,75
+2019,June,14,Segate 2TB External HardDrive,5499,Segate,92,Accessories,64,100,36
+2019,June,15,Sennheiser PXC550 Wireless,17900,Sennheiser,80,Accessories,30,100,70
+2019,June,16,Sony WH-1000XM3,24900,Sony,97,Accessories,30,100,70
+2019,June,21,HP Spectre X360,186990,HP,87,Laptops,30,100,70
+2019,June,22,Lenovo Ideapad S540,62000,Lenovo,91,Laptops,30,100,70
+2019,June,23,Lenovo Legion y540,65000,Lenovo,81,Laptops,30,100,70
+2019,June,24,Apple Macbook Air 13-inch,99900,Apple,95,Laptops,30,100,70
+2019,June,25,Apple Macbook Pro 15-inch,244990,Apple,94,Laptops,30,100,70
+2019,June,26,Razer Stealth Blade 13.3-inch,121000,Razer,85,Laptops,30,100,70
+2019,June,31,Apple iPhone 11,64900,Apple,92,Smartphones,30,100,70
+2019,June,32,Apple iPhone 11 PRO,99000,Apple,89,Smartphones,30,100,70
+2019,June,33,OnePlus 7 PRO,46000,OnePlus,90,Smartphones,30,100,70
+2019,June,34,OnePlus 7T PRO,53999,OnePlus,92,Smartphones,30,100,70
+2019,June,35,Samsung Galaxy Note 10+,79999,Samsung,79,Smartphones,30,100,70
+2019,June,36,Samsung Galaxy S10+,113900,Samsung,80,Smartphones,30,100,70
+2019,June,41,Canon EOS 1500D,25990,Canon,82,TV and Cams,30,100,70
+2019,June,42,LG 75-inch 4K UHD TV,241000,LG,97,TV and Cams,30,100,70
+2019,June,43,Nikon D5300 Digital SLR Camera,25499,Nikon,72,TV and Cams,30,100,70
+2019,June,44,OnePlus TV 55-inch,99900,OnePlus,87,TV and Cams,30,100,70
+2019,June,45,Samsung OLED TV,84000,Samsung,84,TV and Cams,30,100,70
+2019,June,46,Sony ALPHA ILCE-6400M,97990,Sony,92,TV and Cams,30,100,70
+2019,July,11,Apple Airpods with wireless charging case,14900,Apple,94,Accessories,50,100,50
+2019,July,12,Apple Watch Series 5,52900,Apple,87,Accessories,32,100,68
+2019,July,13,Bose SoundLink Revolve+,24500,Bose,80,Accessories,25,100,75
+2019,July,14,Segate 2TB External HardDrive,5499,Segate,92,Accessories,64,100,36
+2019,July,15,Sennheiser PXC550 Wireless,17900,Sennheiser,80,Accessories,30,100,70
+2019,July,16,Sony WH-1000XM3,24900,Sony,97,Accessories,30,100,70
+2019,July,21,HP Spectre X360,186990,HP,87,Laptops,30,100,70
+2019,July,22,Lenovo Ideapad S540,62000,Lenovo,91,Laptops,30,100,70
+2019,July,23,Lenovo Legion y540,65000,Lenovo,81,Laptops,30,100,70
+2019,July,24,Apple Macbook Air 13-inch,99900,Apple,95,Laptops,30,100,70
+2019,July,25,Apple Macbook Pro 15-inch,244990,Apple,94,Laptops,30,100,70
+2019,July,26,Razer Stealth Blade 13.3-inch,121000,Razer,85,Laptops,30,100,70
+2019,July,31,Apple iPhone 11,64900,Apple,92,Smartphones,30,100,70
+2019,July,32,Apple iPhone 11 PRO,99000,Apple,89,Smartphones,30,100,70
+2019,July,33,OnePlus 7 PRO,46000,OnePlus,90,Smartphones,30,100,70
+2019,July,34,OnePlus 7T PRO,53999,OnePlus,92,Smartphones,30,100,70
+2019,July,35,Samsung Galaxy Note 10+,79999,Samsung,79,Smartphones,30,100,70
+2019,July,36,Samsung Galaxy S10+,113900,Samsung,80,Smartphones,30,100,70
+2019,July,41,Canon EOS 1500D,25990,Canon,82,TV and Cams,30,100,70
+2019,July,42,LG 75-inch 4K UHD TV,241000,LG,97,TV and Cams,30,100,70
+2019,July,43,Nikon D5300 Digital SLR Camera,25499,Nikon,72,TV and Cams,30,100,70
+2019,July,44,OnePlus TV 55-inch,99900,OnePlus,87,TV and Cams,30,100,70
+2019,July,45,Samsung OLED TV,84000,Samsung,84,TV and Cams,30,100,70
+2019,July,46,Sony ALPHA ILCE-6400M,97990,Sony,92,TV and Cams,30,100,70
+2019,August,11,Apple Airpods with wireless charging case,14900,Apple,94,Accessories,50,100,50
+2019,August,12,Apple Watch Series 5,52900,Apple,87,Accessories,32,100,68
+2019,August,13,Bose SoundLink Revolve+,24500,Bose,80,Accessories,25,100,75
+2019,August,14,Segate 2TB External HardDrive,5499,Segate,92,Accessories,64,100,36
+2019,August,15,Sennheiser PXC550 Wireless,17900,Sennheiser,80,Accessories,30,100,70
+2019,August,16,Sony WH-1000XM3,24900,Sony,97,Accessories,30,100,70
+2019,August,21,HP Spectre X360,186990,HP,87,Laptops,30,100,70
+2019,August,22,Lenovo Ideapad S540,62000,Lenovo,91,Laptops,30,100,70
+2019,August,23,Lenovo Legion y540,65000,Lenovo,81,Laptops,30,100,70
+2019,August,24,Apple Macbook Air 13-inch,99900,Apple,95,Laptops,30,100,70
+2019,August,25,Apple Macbook Pro 15-inch,244990,Apple,94,Laptops,30,100,70
+2019,August,26,Razer Stealth Blade 13.3-inch,121000,Razer,85,Laptops,30,100,70
+2019,August,31,Apple iPhone 11,64900,Apple,92,Smartphones,30,100,70
+2019,August,32,Apple iPhone 11 PRO,99000,Apple,89,Smartphones,30,100,70
+2019,August,33,OnePlus 7 PRO,46000,OnePlus,90,Smartphones,30,100,70
+2019,August,34,OnePlus 7T PRO,53999,OnePlus,92,Smartphones,30,100,70
+2019,August,35,Samsung Galaxy Note 10+,79999,Samsung,79,Smartphones,30,100,70
+2019,August,36,Samsung Galaxy S10+,113900,Samsung,80,Smartphones,30,100,70
+2019,August,41,Canon EOS 1500D,25990,Canon,82,TV and Cams,30,100,70
+2019,August,42,LG 75-inch 4K UHD TV,241000,LG,97,TV and Cams,30,100,70
+2019,August,43,Nikon D5300 Digital SLR Camera,25499,Nikon,72,TV and Cams,30,100,70
+2019,August,44,OnePlus TV 55-inch,99900,OnePlus,87,TV and Cams,30,100,70
+2019,August,45,Samsung OLED TV,84000,Samsung,84,TV and Cams,30,100,70
+2019,August,46,Sony ALPHA ILCE-6400M,97990,Sony,92,TV and Cams,30,100,70
+2019,September,11,Apple Airpods with wireless charging case,14900,Apple,94,Accessories,50,100,50
+2019,September,12,Apple Watch Series 5,52900,Apple,87,Accessories,32,100,68
+2019,September,13,Bose SoundLink Revolve+,24500,Bose,80,Accessories,25,100,75
+2019,September,14,Segate 2TB External HardDrive,5499,Segate,92,Accessories,64,100,36
+2019,September,15,Sennheiser PXC550 Wireless,17900,Sennheiser,80,Accessories,30,100,70
+2019,September,16,Sony WH-1000XM3,24900,Sony,97,Accessories,30,100,70
+2019,September,21,HP Spectre X360,186990,HP,87,Laptops,30,100,70
+2019,September,22,Lenovo Ideapad S540,62000,Lenovo,91,Laptops,30,100,70
+2019,September,23,Lenovo Legion y540,65000,Lenovo,81,Laptops,30,100,70
+2019,September,24,Apple Macbook Air 13-inch,99900,Apple,95,Laptops,30,100,70
+2019,September,25,Apple Macbook Pro 15-inch,244990,Apple,94,Laptops,30,100,70
+2019,September,26,Razer Stealth Blade 13.3-inch,121000,Razer,85,Laptops,30,100,70
+2019,September,31,Apple iPhone 11,64900,Apple,92,Smartphones,30,100,70
+2019,September,32,Apple iPhone 11 PRO,99000,Apple,89,Smartphones,30,100,70
+2019,September,33,OnePlus 7 PRO,46000,OnePlus,90,Smartphones,30,100,70
+2019,September,34,OnePlus 7T PRO,53999,OnePlus,92,Smartphones,30,100,70
+2019,September,35,Samsung Galaxy Note 10+,79999,Samsung,79,Smartphones,30,100,70
+2019,September,36,Samsung Galaxy S10+,113900,Samsung,80,Smartphones,30,100,70
+2019,September,41,Canon EOS 1500D,25990,Canon,82,TV and Cams,30,100,70
+2019,September,42,LG 75-inch 4K UHD TV,241000,LG,97,TV and Cams,30,100,70
+2019,September,43,Nikon D5300 Digital SLR Camera,25499,Nikon,72,TV and Cams,30,100,70
+2019,September,44,OnePlus TV 55-inch,99900,OnePlus,87,TV and Cams,30,100,70
+2019,September,45,Samsung OLED TV,84000,Samsung,84,TV and Cams,30,100,70
+2019,September,46,Sony ALPHA ILCE-6400M,97990,Sony,92,TV and Cams,30,100,70
+2019,October,11,Apple Airpods with wireless charging case,14900,Apple,94,Accessories,50,100,50
+2019,October,12,Apple Watch Series 5,52900,Apple,87,Accessories,32,100,68
+2019,October,13,Bose SoundLink Revolve+,24500,Bose,80,Accessories,25,100,75
+2019,October,14,Segate 2TB External HardDrive,5499,Segate,92,Accessories,64,100,36
+2019,October,15,Sennheiser PXC550 Wireless,17900,Sennheiser,80,Accessories,30,100,70
+2019,October,16,Sony WH-1000XM3,24900,Sony,97,Accessories,30,100,70
+2019,October,21,HP Spectre X360,186990,HP,87,Laptops,30,100,70
+2019,October,22,Lenovo Ideapad S540,62000,Lenovo,91,Laptops,30,100,70
+2019,October,23,Lenovo Legion y540,65000,Lenovo,81,Laptops,30,100,70
+2019,October,24,Apple Macbook Air 13-inch,99900,Apple,95,Laptops,30,100,70
+2019,October,25,Apple Macbook Pro 15-inch,244990,Apple,94,Laptops,30,100,70
+2019,October,26,Razer Stealth Blade 13.3-inch,121000,Razer,85,Laptops,30,100,70
+2019,October,31,Apple iPhone 11,64900,Apple,92,Smartphones,30,100,70
+2019,October,32,Apple iPhone 11 PRO,99000,Apple,89,Smartphones,30,100,70
+2019,October,33,OnePlus 7 PRO,46000,OnePlus,90,Smartphones,30,100,70
+2019,October,34,OnePlus 7T PRO,53999,OnePlus,92,Smartphones,30,100,70
+2019,October,35,Samsung Galaxy Note 10+,79999,Samsung,79,Smartphones,30,100,70
+2019,October,36,Samsung Galaxy S10+,113900,Samsung,80,Smartphones,30,100,70
+2019,October,41,Canon EOS 1500D,25990,Canon,82,TV and Cams,30,100,70
+2019,October,42,LG 75-inch 4K UHD TV,241000,LG,97,TV and Cams,30,100,70
+2019,October,43,Nikon D5300 Digital SLR Camera,25499,Nikon,72,TV and Cams,30,100,70
+2019,October,44,OnePlus TV 55-inch,99900,OnePlus,87,TV and Cams,30,100,70
+2019,October,45,Samsung OLED TV,84000,Samsung,84,TV and Cams,30,100,70
+2019,October,46,Sony ALPHA ILCE-6400M,97990,Sony,92,TV and Cams,30,100,70
+2019,November,11,Apple Airpods with wireless charging case,14900,Apple,94,Accessories,50,100,50
+2019,November,12,Apple Watch Series 5,52900,Apple,87,Accessories,32,100,68
+2019,November,13,Bose SoundLink Revolve+,24500,Bose,80,Accessories,25,100,75
+2019,November,14,Segate 2TB External HardDrive,5499,Segate,92,Accessories,64,100,36
+2019,November,15,Sennheiser PXC550 Wireless,17900,Sennheiser,80,Accessories,30,100,70
+2019,November,16,Sony WH-1000XM3,24900,Sony,97,Accessories,30,100,70
+2019,November,21,HP Spectre X360,186990,HP,87,Laptops,30,100,70
+2019,November,22,Lenovo Ideapad S540,62000,Lenovo,91,Laptops,30,100,70
+2019,November,23,Lenovo Legion y540,65000,Lenovo,81,Laptops,30,100,70
+2019,November,24,Apple Macbook Air 13-inch,99900,Apple,95,Laptops,30,100,70
+2019,November,25,Apple Macbook Pro 15-inch,244990,Apple,94,Laptops,30,100,70
+2019,November,26,Razer Stealth Blade 13.3-inch,121000,Razer,85,Laptops,30,100,70
+2019,November,31,Apple iPhone 11,64900,Apple,92,Smartphones,30,100,70
+2019,November,32,Apple iPhone 11 PRO,99000,Apple,89,Smartphones,30,100,70
+2019,November,33,OnePlus 7 PRO,46000,OnePlus,90,Smartphones,30,100,70
+2019,November,34,OnePlus 7T PRO,53999,OnePlus,92,Smartphones,30,100,70
+2019,November,35,Samsung Galaxy Note 10+,79999,Samsung,79,Smartphones,30,100,70
+2019,November,36,Samsung Galaxy S10+,113900,Samsung,80,Smartphones,30,100,70
+2019,November,41,Canon EOS 1500D,25990,Canon,82,TV and Cams,30,100,70
+2019,November,42,LG 75-inch 4K UHD TV,241000,LG,97,TV and Cams,30,100,70
+2019,November,43,Nikon D5300 Digital SLR Camera,25499,Nikon,72,TV and Cams,30,100,70
+2019,November,44,OnePlus TV 55-inch,99900,OnePlus,87,TV and Cams,30,100,70
+2019,November,45,Samsung OLED TV,84000,Samsung,84,TV and Cams,30,100,70
+2019,November,46,Sony ALPHA ILCE-6400M,97990,Sony,92,TV and Cams,30,100,70
+2019,December,11,Apple Airpods with wireless charging case,14900,Apple,94,Accessories,50,100,50
+2019,December,12,Apple Watch Series 5,52900,Apple,87,Accessories,32,100,68
+2019,December,13,Bose SoundLink Revolve+,24500,Bose,80,Accessories,25,100,75
+2019,December,14,Segate 2TB External HardDrive,5499,Segate,92,Accessories,64,100,36
+2019,December,15,Sennheiser PXC550 Wireless,17900,Sennheiser,80,Accessories,30,100,70
+2019,December,16,Sony WH-1000XM3,24900,Sony,97,Accessories,30,100,70
+2019,December,21,HP Spectre X360,186990,HP,87,Laptops,30,100,70
+2019,December,22,Lenovo Ideapad S540,62000,Lenovo,91,Laptops,30,100,70
+2019,December,23,Lenovo Legion y540,65000,Lenovo,81,Laptops,30,100,70
+2019,December,24,Apple Macbook Air 13-inch,99900,Apple,95,Laptops,30,100,70
+2019,December,25,Apple Macbook Pro 15-inch,244990,Apple,94,Laptops,30,100,70
+2019,December,26,Razer Stealth Blade 13.3-inch,121000,Razer,85,Laptops,30,100,70
+2019,December,31,Apple iPhone 11,64900,Apple,92,Smartphones,30,100,70
+2019,December,32,Apple iPhone 11 PRO,99000,Apple,89,Smartphones,30,100,70
+2019,December,33,OnePlus 7 PRO,46000,OnePlus,90,Smartphones,30,100,70
+2019,December,34,OnePlus 7T PRO,53999,OnePlus,92,Smartphones,30,100,70
+2019,December,35,Samsung Galaxy Note 10+,79999,Samsung,79,Smartphones,30,100,70
+2019,December,36,Samsung Galaxy S10+,113900,Samsung,80,Smartphones,30,100,70
+2019,December,41,Canon EOS 1500D,25990,Canon,82,TV and Cams,30,100,70
+2019,December,42,LG 75-inch 4K UHD TV,241000,LG,97,TV and Cams,30,100,70
+2019,December,43,Nikon D5300 Digital SLR Camera,25499,Nikon,72,TV and Cams,30,100,70
+2019,December,44,OnePlus TV 55-inch,99900,OnePlus,87,TV and Cams,30,100,70
+2019,December,45,Samsung OLED TV,84000,Samsung,84,TV and Cams,30,100,70
+2019,December,46,Sony ALPHA ILCE-6400M,97990,Sony,92,TV and Cams,30,100,70
+2020,January,11,Apple Airpods with wireless charging case,14900,Apple,94,Accessories,50,100,50
+2020,January,12,Apple Watch Series 5,52900,Apple,87,Accessories,32,100,68
+2020,January,13,Bose SoundLink Revolve+,24500,Bose,80,Accessories,25,100,75
+2020,January,14,Segate 2TB External HardDrive,5499,Segate,92,Accessories,64,100,36
+2020,January,15,Sennheiser PXC550 Wireless,17900,Sennheiser,80,Accessories,30,100,70
+2020,January,16,Sony WH-1000XM3,24900,Sony,97,Accessories,30,100,70
+2020,January,21,HP Spectre X360,186990,HP,87,Laptops,30,100,70
+2020,January,22,Lenovo Ideapad S540,62000,Lenovo,91,Laptops,30,100,70
+2020,January,23,Lenovo Legion y540,65000,Lenovo,81,Laptops,30,100,70
+2020,January,24,Apple Macbook Air 13-inch,99900,Apple,95,Laptops,30,100,70
+2020,January,25,Apple Macbook Pro 15-inch,244990,Apple,94,Laptops,30,100,70
+2020,January,26,Razer Stealth Blade 13.3-inch,121000,Razer,85,Laptops,30,100,70
+2020,January,31,Apple iPhone 11,64900,Apple,92,Smartphones,30,100,70
+2020,January,32,Apple iPhone 11 PRO,99000,Apple,89,Smartphones,30,100,70
+2020,January,33,OnePlus 7 PRO,46000,OnePlus,90,Smartphones,30,100,70
+2020,January,34,OnePlus 7T PRO,53999,OnePlus,92,Smartphones,30,100,70
+2020,January,35,Samsung Galaxy Note 10+,79999,Samsung,79,Smartphones,30,100,70
+2020,January,36,Samsung Galaxy S10+,113900,Samsung,80,Smartphones,30,100,70
+2020,January,41,Canon EOS 1500D,25990,Canon,82,TV and Cams,30,100,70
+2020,January,42,LG 75-inch 4K UHD TV,241000,LG,97,TV and Cams,30,100,70
+2020,January,43,Nikon D5300 Digital SLR Camera,25499,Nikon,72,TV and Cams,30,100,70
+2020,January,44,OnePlus TV 55-inch,99900,OnePlus,87,TV and Cams,30,100,70
+2020,January,45,Samsung OLED TV,84000,Samsung,84,TV and Cams,30,100,70
+2020,January,46,Sony ALPHA ILCE-6400M,97990,Sony,92,TV and Cams,30,100,70
+2020,February,11,Apple Airpods with wireless charging case,14900,Apple,94,Accessories,,,
+2020,February,12,Apple Watch Series 5,52900,Apple,87,Accessories,,,
+2020,February,13,Bose SoundLink Revolve+,24500,Bose,80,Accessories,,,
+2020,February,14,Segate 2TB External HardDrive,5499,Segate,92,Accessories,,,
+2020,February,15,Sennheiser PXC550 Wireless,17900,Sennheiser,80,Accessories,,,
+2020,February,16,Sony WH-1000XM3,24900,Sony,97,Accessories,,,
+2020,February,21,HP Spectre X360,186990,HP,87,Laptops,,,
+2020,February,22,Lenovo Ideapad S540,62000,Lenovo,91,Laptops,,,
+2020,February,23,Lenovo Legion y540,65000,Lenovo,81,Laptops,,,
+2020,February,24,Apple Macbook Air 13-inch,99900,Apple,95,Laptops,,,
+2020,February,25,Apple Macbook Pro 15-inch,244990,Apple,94,Laptops,,,
+2020,February,26,Razer Stealth Blade 13.3-inch,121000,Razer,85,Laptops,,,
+2020,February,31,Apple iPhone 11,64900,Apple,92,Smartphones,,,
+2020,February,32,Apple iPhone 11 PRO,99000,Apple,89,Smartphones,,,
+2020,February,33,OnePlus 7 PRO,46000,OnePlus,90,Smartphones,,,
+2020,February,34,OnePlus 7T PRO,53999,OnePlus,92,Smartphones,,,
+2020,February,35,Samsung Galaxy Note 10+,79999,Samsung,79,Smartphones,,,
+2020,February,36,Samsung Galaxy S10+,113900,Samsung,80,Smartphones,,,
+2020,February,41,Canon EOS 1500D,25990,Canon,82,TV and Cams,,,
+2020,February,42,LG 75-inch 4K UHD TV,241000,LG,97,TV and Cams,,,
+2020,February,43,Nikon D5300 Digital SLR Camera,25499,Nikon,72,TV and Cams,,,
+2020,February,44,OnePlus TV 55-inch,99900,OnePlus,87,TV and Cams,,,
+2020,February,45,Samsung OLED TV,84000,Samsung,84,TV and Cams,,,
+2020,February,46,Sony ALPHA ILCE-6400M,97990,Sony,92,TV and Cams,,,
+2020,March,11,Apple Airpods with wireless charging case,14900,Apple,94,Accessories,,,
+2020,March,12,Apple Watch Series 5,52900,Apple,87,Accessories,,,
+2020,March,13,Bose SoundLink Revolve+,24500,Bose,80,Accessories,,,
+2020,March,14,Segate 2TB External HardDrive,5499,Segate,92,Accessories,,,
+2020,March,15,Sennheiser PXC550 Wireless,17900,Sennheiser,80,Accessories,,,
+2020,March,16,Sony WH-1000XM3,24900,Sony,97,Accessories,,,
+2020,March,21,HP Spectre X360,186990,HP,87,Laptops,,,
+2020,March,22,Lenovo Ideapad S540,62000,Lenovo,91,Laptops,,,
+2020,March,23,Lenovo Legion y540,65000,Lenovo,81,Laptops,,,
+2020,March,24,Apple Macbook Air 13-inch,99900,Apple,95,Laptops,,,
+2020,March,25,Apple Macbook Pro 15-inch,244990,Apple,94,Laptops,,,
+2020,March,26,Razer Stealth Blade 13.3-inch,121000,Razer,85,Laptops,,,
+2020,March,31,Apple iPhone 11,64900,Apple,92,Smartphones,,,
+2020,March,32,Apple iPhone 11 PRO,99000,Apple,89,Smartphones,,,
+2020,March,33,OnePlus 7 PRO,46000,OnePlus,90,Smartphones,,,
+2020,March,34,OnePlus 7T PRO,53999,OnePlus,92,Smartphones,,,
+2020,March,35,Samsung Galaxy Note 10+,79999,Samsung,79,Smartphones,,,
+2020,March,36,Samsung Galaxy S10+,113900,Samsung,80,Smartphones,,,
+2020,March,41,Canon EOS 1500D,25990,Canon,82,TV and Cams,,,
+2020,March,42,LG 75-inch 4K UHD TV,241000,LG,97,TV and Cams,,,
+2020,March,43,Nikon D5300 Digital SLR Camera,25499,Nikon,72,TV and Cams,,,
+2020,March,44,OnePlus TV 55-inch,99900,OnePlus,87,TV and Cams,,,
+2020,March,45,Samsung OLED TV,84000,Samsung,84,TV and Cams,,,
+2020,March,46,Sony ALPHA ILCE-6400M,97990,Sony,92,TV and Cams,,,
+2020,April,11,Apple Airpods with wireless charging case,14900,Apple,94,Accessories,,,
+2020,April,12,Apple Watch Series 5,52900,Apple,87,Accessories,,,
+2020,April,13,Bose SoundLink Revolve+,24500,Bose,80,Accessories,,,
+2020,April,14,Segate 2TB External HardDrive,5499,Segate,92,Accessories,,,
+2020,April,15,Sennheiser PXC550 Wireless,17900,Sennheiser,80,Accessories,,,
+2020,April,16,Sony WH-1000XM3,24900,Sony,97,Accessories,,,
+2020,April,21,HP Spectre X360,186990,HP,87,Laptops,,,
+2020,April,22,Lenovo Ideapad S540,62000,Lenovo,91,Laptops,,,
+2020,April,23,Lenovo Legion y540,65000,Lenovo,81,Laptops,,,
+2020,April,24,Apple Macbook Air 13-inch,99900,Apple,95,Laptops,,,
+2020,April,25,Apple Macbook Pro 15-inch,244990,Apple,94,Laptops,,,
+2020,April,26,Razer Stealth Blade 13.3-inch,121000,Razer,85,Laptops,,,
+2020,April,31,Apple iPhone 11,64900,Apple,92,Smartphones,,,
+2020,April,32,Apple iPhone 11 PRO,99000,Apple,89,Smartphones,,,
+2020,April,33,OnePlus 7 PRO,46000,OnePlus,90,Smartphones,,,
+2020,April,34,OnePlus 7T PRO,53999,OnePlus,92,Smartphones,,,
+2020,April,35,Samsung Galaxy Note 10+,79999,Samsung,79,Smartphones,,,
+2020,April,36,Samsung Galaxy S10+,113900,Samsung,80,Smartphones,,,
+2020,April,41,Canon EOS 1500D,25990,Canon,82,TV and Cams,,,
+2020,April,42,LG 75-inch 4K UHD TV,241000,LG,97,TV and Cams,,,
+2020,April,43,Nikon D5300 Digital SLR Camera,25499,Nikon,72,TV and Cams,,,
+2020,April,44,OnePlus TV 55-inch,99900,OnePlus,87,TV and Cams,,,
+2020,April,45,Samsung OLED TV,84000,Samsung,84,TV and Cams,,,
+2020,April,46,Sony ALPHA ILCE-6400M,97990,Sony,92,TV and Cams,,,
+2020,May,11,Apple Airpods with wireless charging case,14900,Apple,94,Accessories,,,
+2020,May,12,Apple Watch Series 5,52900,Apple,87,Accessories,,,
+2020,May,13,Bose SoundLink Revolve+,24500,Bose,80,Accessories,,,
+2020,May,14,Segate 2TB External HardDrive,5499,Segate,92,Accessories,,,
+2020,May,15,Sennheiser PXC550 Wireless,17900,Sennheiser,80,Accessories,,,
+2020,May,16,Sony WH-1000XM3,24900,Sony,97,Accessories,,,
+2020,May,21,HP Spectre X360,186990,HP,87,Laptops,,,
+2020,May,22,Lenovo Ideapad S540,62000,Lenovo,91,Laptops,,,
+2020,May,23,Lenovo Legion y540,65000,Lenovo,81,Laptops,,,
+2020,May,24,Apple Macbook Air 13-inch,99900,Apple,95,Laptops,,,
+2020,May,25,Apple Macbook Pro 15-inch,244990,Apple,94,Laptops,,,
+2020,May,26,Razer Stealth Blade 13.3-inch,121000,Razer,85,Laptops,,,
+2020,May,31,Apple iPhone 11,64900,Apple,92,Smartphones,,,
+2020,May,32,Apple iPhone 11 PRO,99000,Apple,89,Smartphones,,,
+2020,May,33,OnePlus 7 PRO,46000,OnePlus,90,Smartphones,,,
+2020,May,34,OnePlus 7T PRO,53999,OnePlus,92,Smartphones,,,
+2020,May,35,Samsung Galaxy Note 10+,79999,Samsung,79,Smartphones,,,
+2020,May,36,Samsung Galaxy S10+,113900,Samsung,80,Smartphones,,,
+2020,May,41,Canon EOS 1500D,25990,Canon,82,TV and Cams,,,
+2020,May,42,LG 75-inch 4K UHD TV,241000,LG,97,TV and Cams,,,
+2020,May,43,Nikon D5300 Digital SLR Camera,25499,Nikon,72,TV and Cams,,,
+2020,May,44,OnePlus TV 55-inch,99900,OnePlus,87,TV and Cams,,,
+2020,May,45,Samsung OLED TV,84000,Samsung,84,TV and Cams,,,
+2020,May,46,Sony ALPHA ILCE-6400M,97990,Sony,92,TV and Cams,,,
