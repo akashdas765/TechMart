@@ -1,0 +1,656 @@
+{
+  "Misc" : {
+  "image1" : "https://firebasestorage.googleapis.com/v0/b/techmart-67117.appspot.com/o/Misc%2Fechodot.jpg?alt=media&token=4daa5dfc-c055-4e0b-9db8-edb90d951e44",
+  "image2" : "https://firebasestorage.googleapis.com/v0/b/techmart-67117.appspot.com/o/Misc%2Fsamsungm30.jpg?alt=media&token=ff7b2cce-88bb-47e4-bc6b-7a0cdc28f240"
+},
+  "Products" : {
+      "11" : {
+        "Initial Products" : 100,
+        "No of items Left" : 70,
+        "No of items Sold" : 30,
+        "Price" : 14900,
+        "Product Name" : "Apple Airpods with wireless charging case",
+        "ProductID" : 11,
+        "Description" : {
+          "line1" : "With Mic:Yes",
+          "line2" : "Quick access to Siri by saying 'Hey Siri' ",
+          "line3" : "Easy setup for all your Apple devices",
+          "line4" : "Rich, high-quality audio and voice"
+        },
+        "images" : {
+          "icon" : "https://firebasestorage.googleapis.com/v0/b/techmart-67117.appspot.com/o/11%2Ficon.webp?alt=media&token=46f7bfb9-8cc2-43bf-8405-f59dce5c6ca1",
+          "image1" : "https://firebasestorage.googleapis.com/v0/b/techmart-67117.appspot.com/o/11%2Fimage%20(1).jpg?alt=media&token=36b16dfc-d280-4074-a335-dc7114d50f60",
+          "image2" : "https://firebasestorage.googleapis.com/v0/b/techmart-67117.appspot.com/o/11%2Fimage%20(2).jpg?alt=media&token=fcf071e2-108b-4fd2-a06f-841d921cd260",
+          "image3" : "https://firebasestorage.googleapis.com/v0/b/techmart-67117.appspot.com/o/11%2Fimage%20(3).jpg?alt=media&token=c277eca6-3c0b-436d-96de-1242d0ca1f36",
+          "image4" : "https://firebasestorage.googleapis.com/v0/b/techmart-67117.appspot.com/o/11%2Fimage%20(4).jpg?alt=media&token=85ee4aff-4645-4126-a7c8-d68d8f628ced"
+        },
+        "Month" : "January",
+        "Year"  : "2019",
+        "Brand" : "Apple",
+        "Quality" : 94,
+        "Category" : "Accessories"
+
+      },
+      "12" : {
+        "Initial Products" : 100,
+        "No of items Left" : 70,
+        "No of items Sold" : 30,
+        "Price" : 52900,
+        "Product Name" : "Apple Watch Series 5",
+        "ProductID" : 12,
+        "Description" : {
+          "line1" : "OLED Always-on Retina Display with Force Touch",
+          "line2" : "Swimproof (5ATM) | Multiple Workout Tracker with Smart Coaching",
+          "line3" : "Fall Detection, Digital Crown with Haptic Feedback, Music Control | GPS, GLONASS, Galileo and QZSS Support",
+          "line4" : "Electrical and Optical Heart Rate Sensors, Barometric Altimeter, Accelerometer, Gyroscope, Ambient Light Sensor"
+        },
+        "images" : {
+          "icon" : "https://firebasestorage.googleapis.com/v0/b/techmart-67117.appspot.com/o/12%2Ficon.webp?alt=media&token=81930d3e-4a58-4624-b4f3-b74b2f5f13ad",
+          "image1" : "https://firebasestorage.googleapis.com/v0/b/techmart-67117.appspot.com/o/12%2Fimage%20(1).jpg?alt=media&token=74b027c9-c187-4037-b314-7541665c4620",
+          "image2" : "https://firebasestorage.googleapis.com/v0/b/techmart-67117.appspot.com/o/12%2Fimage%20(2).jpg?alt=media&token=32f93f27-00ec-4029-b676-9b64ec8ec69c",
+          "image3" : "https://firebasestorage.googleapis.com/v0/b/techmart-67117.appspot.com/o/12%2Fimage%20(2).jpg?alt=media&token=32f93f27-00ec-4029-b676-9b64ec8ec69c",
+          "image4" : "https://firebasestorage.googleapis.com/v0/b/techmart-67117.appspot.com/o/12%2Fimage%20(4).jpg?alt=media&token=abeb8e2f-655a-4526-aaea-7440cb0117e0"
+        },
+        "Month" : "January",
+        "Year"  : "2019",
+        "Brand" : "Apple",
+        "Quality" : 87,
+        "Category" : "Accessories"
+
+      },
+      "13" : {
+        "Initial Products" : 100,
+        "No of items Left" : 70,
+        "No of items Sold" : 30,
+        "Price" : 24500,
+        "Product Name" : "Bose SoundLink Revolve+",
+        "ProductID" : 13,
+        "Description" : {
+          "line1" : "Wireless music streaming via Bluetooth",
+          "line2" : "Massive amount of battery life upto 10 hours of battery life",
+          "line3" : "Built in microphone for taking calls hands-free",
+          "line4" : "Wireless range of upto 9 feet, so never lose touch of your music"
+        },
+        "images" : {
+          "icon" : "https://firebasestorage.googleapis.com/v0/b/techmart-67117.appspot.com/o/13%2Ficon.webp?alt=media&token=49359c1a-c8bf-4041-ac3f-14e10a8bbc12",
+          "image1" : "https://firebasestorage.googleapis.com/v0/b/techmart-67117.appspot.com/o/13%2Fimage%20(1).jpg?alt=media&token=dd05dadf-8ad8-4803-be8e-16c730bc7d0d",
+          "image2" : "https://firebasestorage.googleapis.com/v0/b/techmart-67117.appspot.com/o/13%2Fimage%20(2).jpg?alt=media&token=a3b72f16-d129-4018-8f37-1696015d1ca8",
+          "image3" : "https://firebasestorage.googleapis.com/v0/b/techmart-67117.appspot.com/o/13%2Fimage%20(3).jpg?alt=media&token=7d8ecce2-b5f3-4c0c-8e5b-b6993c514a52",
+          "image4" : "https://firebasestorage.googleapis.com/v0/b/techmart-67117.appspot.com/o/13%2Fimage%20(4).jpg?alt=media&token=2d74d838-ffce-4736-b33a-c03b0236ae50"
+        },
+        "Month" : "January",
+        "Year"  : "2019",
+        "Brand" : "Bose",
+        "Quality" : 80,
+        "Category" : "Accessories"
+
+      },
+      "14" : {
+        "Initial Products" : 100,
+        "No of items Left" : 70,
+        "No of items Sold" : 30,
+        "Price" : 5499,
+        "Product Name" : "Segate 2TB External HardDrive",
+        "ProductID" : 14,
+        "Description" : {
+          "line1" : "With a chic and polished aluminium enclosure, this is a stunning device that has a contemporary design",
+          "line2" : "The Seagate Toolkit software enables on-demand backup that ensures automatic hourly, daily, weekly, and monthly backups",
+          "line3" : "This is a USB 3.0 compatible HDD that transfers files seamlessly",
+          "line4" : "Whether your device runs on Windows or macOS, you can use this external HDD without a second thought"
+        },
+        "images" : {
+          "icon" : "https://firebasestorage.googleapis.com/v0/b/techmart-67117.appspot.com/o/14%2Ficon.webp?alt=media&token=2c7f6264-e251-430d-a6a4-be08056a665f",
+          "image1" : "https://firebasestorage.googleapis.com/v0/b/techmart-67117.appspot.com/o/14%2Fimage%20(1).jpg?alt=media&token=38ea8b3e-2ff3-42c1-9076-1bed108d247a",
+          "image2" : "https://firebasestorage.googleapis.com/v0/b/techmart-67117.appspot.com/o/14%2Fimage%20(2).jpg?alt=media&token=6560e680-fd49-4379-8087-5db979cdffcd",
+          "image3" : "https://firebasestorage.googleapis.com/v0/b/techmart-67117.appspot.com/o/14%2Fimage%20(3).jpg?alt=media&token=5b5bc6b3-9ff5-4338-a3fc-8e925f4eb869",
+          "image4" : "https://firebasestorage.googleapis.com/v0/b/techmart-67117.appspot.com/o/14%2Fimage%20(4).jpg?alt=media&token=0385d4ef-6edf-45b9-948f-12863a8ac122"
+        },
+        "Month" : "January",
+        "Year"  : "2019",
+        "Brand" : "Segate",
+        "Quality" : 92,
+        "Category" : "Accessories"
+
+      },
+      "15" : {
+        "Initial Products" : 100,
+        "No of items Left" : 70,
+        "No of items Sold" : 30,
+        "Price" : 17900,
+        "Product Name" : "Sennheiser PXC550 Wireless",
+        "ProductID" : 15,
+        "Description" : {
+          "line1" : "Connector type: 3.5 mm",
+          "line2" : "Wireless, lightweight, comfortable and collapsible for the perfect travel experience",
+          "line3" : "Business class communications for vocal clarity and conference calling",
+          "line4" : "Light weight Design"
+        },
+        "images" : {
+          "icon" : "https://firebasestorage.googleapis.com/v0/b/techmart-67117.appspot.com/o/15%2Ficon.jpg?alt=media&token=e0a1e9eb-d13b-4c86-86e0-242768c77e67",
+          "image1" : "https://firebasestorage.googleapis.com/v0/b/techmart-67117.appspot.com/o/15%2Fimage%20(1).jpg?alt=media&token=10616e23-be3e-4614-a381-b99e2689fe78",
+          "image2" : "https://firebasestorage.googleapis.com/v0/b/techmart-67117.appspot.com/o/15%2Fimage%20(2).jpg?alt=media&token=1d37855d-844b-4f94-8660-f153f0245e5c",
+          "image3" : "https://firebasestorage.googleapis.com/v0/b/techmart-67117.appspot.com/o/15%2Fimage%20(3).jpg?alt=media&token=f7bce0ce-ec44-468d-a677-91a15029e103",
+          "image4" : "https://firebasestorage.googleapis.com/v0/b/techmart-67117.appspot.com/o/15%2Fimage%20(4).jpg?alt=media&token=76e1bd42-c417-462b-b827-9c0500d7c694"
+        },
+        "Month" : "January",
+        "Year"  : "2019",
+        "Brand" : "Sennheiser",
+        "Quality" : 80,
+        "Category" : "Accessories"
+
+      },
+      "16" : {
+        "Initial Products" : 100,
+        "No of items Left" : 70,
+        "No of items Sold" : 30,
+        "Price" : 24900,
+        "Product Name" : "Sony WH-1000XM3",
+        "ProductID" : 16,
+        "Description" : {
+          "line1" : "With Mic:Yes",
+          "line2" : "Connector type: No",
+          "line3" : "Bluetooth version: 4.1",
+          "line4" : "Battery life: 30 hr | Charging time: 4 hrs"
+        },
+        "images" : {
+          "icon" : "https://firebasestorage.googleapis.com/v0/b/techmart-67117.appspot.com/o/16%2Ficon.webp?alt=media&token=da66da58-89a6-4d75-81eb-a480a53a547d",
+          "image1" : "https://firebasestorage.googleapis.com/v0/b/techmart-67117.appspot.com/o/16%2Fimage%20(1).jpg?alt=media&token=6ba215e8-86d8-44c6-aadd-e6d301f2b818",
+          "image2" : "https://firebasestorage.googleapis.com/v0/b/techmart-67117.appspot.com/o/16%2Fimage%20(2).jpg?alt=media&token=cf6b8d52-e6b2-4469-8109-09367033b26f",
+          "image3" : "https://firebasestorage.googleapis.com/v0/b/techmart-67117.appspot.com/o/16%2Fimage%20(3).jpg?alt=media&token=38356de1-ad40-4617-906c-96bc979280ac",
+          "image4" : "https://firebasestorage.googleapis.com/v0/b/techmart-67117.appspot.com/o/16%2Fimage%20(4).jpg?alt=media&token=910d5c4a-8595-44fc-b5dd-b8420dbb4be3"
+        },
+        "Month" : "January",
+        "Year"  : "2019",
+        "Brand" : "Sony",
+        "Quality" : 97,
+        "Category" : "Accessories"
+
+      },
+      "21" : {
+        "Initial Products" : 100,
+        "No of items Left" : 70,
+        "No of items Sold" : 30,
+        "Price" : 186990,
+        "Product Name" : "HP Spectre X360",
+        "ProductID" : 21,
+        "Description" : {
+          "line1" : "13.3 inch Full HD LED Backlit Widescreen Multitouch-enabled Flush Glass Anti-glare Display (Direct Bonding Touch with Corning Gorilla Glass NBT, HP SureView Integrated Privacy Screen, 72% Colour Gamut, Active Stylus Writing Support)",
+          "line2" : "Carry It Along 2 in 1 Laptop",
+          "line3" : "Enjoy content in a jaw-dropping quality! Its 3.95 mm narrow bezel fits the screen into a smaller frame, thereby enhancing your entertainment experience",
+          "line4" : "Light Laptop without Optical Disk Drive"
+        },
+        "images" : {
+          "icon" : "https://firebasestorage.googleapis.com/v0/b/techmart-67117.appspot.com/o/21%2Ficon.webp?alt=media&token=ef661d7e-b527-4442-881e-90ffb59d1f59",
+          "image1" : "https://firebasestorage.googleapis.com/v0/b/techmart-67117.appspot.com/o/21%2Fimage%20(1).jpg?alt=media&token=01bfb28a-ec6d-44be-8cf4-3def20003af7",
+          "image2" : "https://firebasestorage.googleapis.com/v0/b/techmart-67117.appspot.com/o/21%2Fimage%20(2).jpg?alt=media&token=612a4614-2b2e-4f71-b3c9-37cc652532bd",
+          "image3" : "https://firebasestorage.googleapis.com/v0/b/techmart-67117.appspot.com/o/21%2Fimage%20(3).jpg?alt=media&token=b707e3d3-1c9b-4e4d-8255-2f63fbd185a5",
+          "image4" : "https://firebasestorage.googleapis.com/v0/b/techmart-67117.appspot.com/o/21%2Fimage%20(4).jpg?alt=media&token=ddb888ec-f5b8-4301-a733-391059d865f3"
+        },
+        "Month" : "January",
+        "Year"  : "2019",
+        "Brand" : "HP",
+        "Quality" : 87,
+        "Category" : "Laptops"
+
+      },
+      "22" : {
+        "Initial Products" : 100,
+        "No of items Left" : 70,
+        "No of items Sold" : 30,
+        "Price" : 62000,
+        "Product Name" : "Lenovo Ideapad S540",
+        "ProductID" : 22,
+        "Description" : {
+          "line1" : "Pre-installed Genuine Windows 10 OS",
+          "line2" : "NVIDIA Geforce NVIDIA® MX250 2GB GDDR5 for High Graphics Performance",
+          "line3" : "Preloaded MS Office Home and Student 2016",
+          "line4" : "15.6 inch Full HD LED Backlit Anti-glare IPS Display"
+        },
+        "images" : {
+          "icon" : "https://firebasestorage.googleapis.com/v0/b/techmart-67117.appspot.com/o/22%2Ficon.png?alt=media&token=a1c6885b-c4e5-46da-bcfd-8ded7fcbb7bf",
+          "image1" : "https://firebasestorage.googleapis.com/v0/b/techmart-67117.appspot.com/o/22%2Fimage%20(4).jpg?alt=media&token=977e96db-18a3-487e-b870-99dde4ef2b73",
+          "image2" : "https://firebasestorage.googleapis.com/v0/b/techmart-67117.appspot.com/o/22%2Fimage%20(1).jpg?alt=media&token=9ebbdc53-0fe5-4ce9-8188-991416406586",
+          "image3" : "https://firebasestorage.googleapis.com/v0/b/techmart-67117.appspot.com/o/22%2Fimage%20(3).jpg?alt=media&token=25907fc5-8fa9-465b-9b04-abe6ba69408c",
+          "image4" : "https://firebasestorage.googleapis.com/v0/b/techmart-67117.appspot.com/o/22%2Fimage%20(2).jpg?alt=media&token=06373015-d283-4e36-b1e5-8c86159dd7b1"
+        },
+        "Month" : "January",
+        "Year"  : "2019",
+        "Brand" : "Lenovo",
+        "Quality" : 91,
+        "Category" : "Laptops"
+
+      },
+      "23" : {
+        "Initial Products" : 100,
+        "No of items Left" : 70,
+        "No of items Sold" : 30,
+        "Price" : 65000,
+        "Product Name" : "Lenovo Legion y540",
+        "ProductID" : 23,
+        "Description" : {
+          "line1" : "NVIDIA Geforce GTX GTX1650 for Desktop Level Performance",
+          "line2" : "Pre-installed Genuine Windows 10 OS",
+          "line3" : "Intel's 9th Generation Core i5 Processor inside",
+          "line4" : "Preloaded MS Office Home and Student 2016"
+        },
+        "images" : {
+          "icon" : "https://firebasestorage.googleapis.com/v0/b/techmart-67117.appspot.com/o/23%2Ficon.webp?alt=media&token=eb694656-d499-41e4-b501-346f7f97cb64",
+          "image1" : "https://firebasestorage.googleapis.com/v0/b/techmart-67117.appspot.com/o/23%2Fimage%20(3).jpg?alt=media&token=ab3159d6-61d8-45c9-ba11-839482c738c9",
+          "image2" : "https://firebasestorage.googleapis.com/v0/b/techmart-67117.appspot.com/o/23%2Fimage%20(2).jpg?alt=media&token=b7294850-5dad-4d5c-9dcb-d5ac7bdb4aa6",
+          "image3" : "https://firebasestorage.googleapis.com/v0/b/techmart-67117.appspot.com/o/23%2Fimage%20(1).jpg?alt=media&token=7c1d3159-f3fb-45a3-9b52-79c0f4568c1b",
+          "image4" : "https://firebasestorage.googleapis.com/v0/b/techmart-67117.appspot.com/o/23%2Fimage%20(4).jpg?alt=media&token=2e3d0e14-80b2-4b4b-bda4-ce953a20b693"
+        },
+        "Month" : "January",
+        "Year"  : "2019",
+        "Brand" : "Lenovo",
+        "Quality" : 81,
+        "Category" : "Laptops"
+
+      },
+      "24" : {
+        "Initial Products" : 100,
+        "No of items Left" : 70,
+        "No of items Sold" : 30,
+        "Price" : 99900,
+        "Product Name" : "Apple Macbook Air 13-inch",
+        "ProductID" : 24,
+        "Description" : {
+          "line1" : "Stylish & Portable Thin and Light Laptop",
+          "line2" : "13.3 inch Quad HD LED Backlit IPS Retina Display (True Tone Technology)",
+          "line3" : "Light Laptop without Optical Disk Drive",
+          "line4" : "1.6 GHz with Turbo Boost Upto 3.6 GHz"
+        },
+        "images" : {
+          "icon" : "https://firebasestorage.googleapis.com/v0/b/techmart-67117.appspot.com/o/24%2Ficon.webp?alt=media&token=bf8a9544-dd85-417b-bc9d-03631ae4c2e8",
+          "image1" : "https://firebasestorage.googleapis.com/v0/b/techmart-67117.appspot.com/o/24%2Fimage%20(1).jpg?alt=media&token=bab06a70-6373-43aa-9733-94dddfcfd485",
+          "image2" : "https://firebasestorage.googleapis.com/v0/b/techmart-67117.appspot.com/o/24%2Fimage%20(2).jpg?alt=media&token=1bfb4709-2b6d-42b3-aba6-41c94e89e76b",
+          "image3" : "https://firebasestorage.googleapis.com/v0/b/techmart-67117.appspot.com/o/24%2Fimage%20(3).jpg?alt=media&token=0d655950-b859-4f18-b5f7-72c7fc8df593",
+          "image4" : "https://firebasestorage.googleapis.com/v0/b/techmart-67117.appspot.com/o/24%2Fimage%20(4).jpg?alt=media&token=3e03e188-39cc-453d-b68f-4004f42b1943"
+        },
+        "Month" : "January",
+        "Year"  : "2019",
+        "Brand" : "Apple",
+        "Quality" : 95,
+        "Category" : "Laptops"
+
+      },
+      "25" : {
+        "Initial Products" : 100,
+        "No of items Left" : 70,
+        "No of items Sold" : 30,
+        "Price" : 244990,
+        "Product Name" : "Apple Macbook Pro 15-inch",
+        "ProductID" : 25,
+        "Description" : {
+          "line1" : "15.4 inch Quad HD LED Backlit IPS Retina Display (True Tone Technology, Wide Color (P3), 500 nits Brightness)",
+          "line2" : "Battery Life upto 10 hours",
+          "line3" : "AMD Radeon Pro 560X graphic processor inside",
+          "line4" : "2.3 GHz with Turbo Boost Upto 4.8 GHz"
+        },
+        "images" : {
+          "icon" : "https://firebasestorage.googleapis.com/v0/b/techmart-67117.appspot.com/o/25%2Ficon.webp?alt=media&token=1befe0cb-32d0-438e-8f50-c73e47b3e482",
+          "image1" : "https://firebasestorage.googleapis.com/v0/b/techmart-67117.appspot.com/o/25%2Fimage%20(1).jpg?alt=media&token=12cf6fa4-ff33-4c0e-a819-c208f39265f7",
+          "image2" : "https://firebasestorage.googleapis.com/v0/b/techmart-67117.appspot.com/o/25%2Fimage%20(2).jpg?alt=media&token=314dd50b-c556-4bf8-80db-e4e43c829525",
+          "image3" : "https://firebasestorage.googleapis.com/v0/b/techmart-67117.appspot.com/o/25%2Fimage%20(3).jpg?alt=media&token=0e272be6-52d8-4179-91aa-5c06b66693dc",
+          "image4" : "https://firebasestorage.googleapis.com/v0/b/techmart-67117.appspot.com/o/25%2Fimage%20(4).jpg?alt=media&token=6343a854-3e52-45b9-b190-2778699b475e"
+        },
+        "Month" : "January",
+        "Year"  : "2019",
+        "Brand" : "Apple",
+        "Quality" : 94,
+        "Category" : "Laptops"
+
+      },
+      "26" : {
+        "Initial Products" : 100,
+        "No of items Left" : 70,
+        "No of items Sold" : 30,
+        "Price" : 121000,
+        "Product Name" : "Razer Stealth Blade 13.3-inch",
+        "ProductID" : 26,
+        "Description" : {
+          "line1" : "PERFORMANCE FOR PRODUCTIVITY: Quad-core 8th Gen Intel Core i7-8565U Processor at 1.8 GHz / up to 4.6 GHz (Base/Turbo) and 8GB dual-channel memory",
+          "line2" : "DESIGNED FOR MOBILITY: Up to 13hrs long battery life - Ultra thin, light and incredibly durable with a CNC unibody aluminum frame",
+          "line3" : "THIN BEZEL FULL HD DISPLAY: Visually stunning matte Full HD screen with 100% sRGB color saturation for work and entertainment",
+          "line4" : "POWER BY RAZER CHROMA: Keyboard featuring single-zone RGB lighting with 16.8 million color options, and a precision glass touchpad"
+        },
+        "images" : {
+          "icon" : "https://firebasestorage.googleapis.com/v0/b/techmart-67117.appspot.com/o/26%2Ficon.webp?alt=media&token=092f21b2-655e-4bd1-b254-d39712bc4002",
+          "image1" : "https://firebasestorage.googleapis.com/v0/b/techmart-67117.appspot.com/o/26%2Fimage%20(1).jpg?alt=media&token=fe581e06-364a-4c2c-a19d-39cf871b7ef6",
+          "image2" : "https://firebasestorage.googleapis.com/v0/b/techmart-67117.appspot.com/o/26%2Fimage%20(2).jpg?alt=media&token=0466c98f-0b00-4445-be89-2d0ac19a4bce",
+          "image3" : "https://firebasestorage.googleapis.com/v0/b/techmart-67117.appspot.com/o/26%2Fimage%20(3).jpg?alt=media&token=ec7fd44e-5a7d-46c8-8196-78fbeb07420d",
+          "image4" : "https://firebasestorage.googleapis.com/v0/b/techmart-67117.appspot.com/o/26%2Fimage%20(4).jpg?alt=media&token=c28e7311-8336-42b5-b1fd-cce3fcc7286b"
+        },
+        "Month" : "January",
+        "Year"  : "2019",
+        "Brand" : "Razer",
+        "Quality" : 85,
+        "Category" : "Laptops"
+
+      },
+      "31" : {
+        "Initial Products" : 100,
+        "No of items Left" : 70,
+        "No of items Sold" : 30,
+        "Price" : 64900,
+        "Product Name" : "Apple iPhone 11",
+        "ProductID" : 31,
+        "Description" : {
+          "line1" : "6.1-inch Liquid Retina HD LCD display",
+          "line2" : "Dual-camera system with 12MP Ultra Wide and Wide cameras; Night mode, Portrait mode, and 4K video up to 60fps",
+          "line3" : "12MP TrueDepth front camera with Portrait mode, 4K video, and Slo-Mo",
+          "line4" : "A13 Bionic chip with third-generation Neural Engine"
+        },
+        "images" : {
+          "icon" : "https://firebasestorage.googleapis.com/v0/b/techmart-67117.appspot.com/o/31%2Ficon.webp?alt=media&token=4943be10-38c1-4da4-b01e-777ce4668ac9",
+          "image1" : "https://firebasestorage.googleapis.com/v0/b/techmart-67117.appspot.com/o/31%2Fimage%20(1).jpg?alt=media&token=a50840f9-2336-4495-b925-ad02fea9e6f8",
+          "image2" : "https://firebasestorage.googleapis.com/v0/b/techmart-67117.appspot.com/o/31%2Fimage%20(3).jpg?alt=media&token=71a1e254-4d66-403b-9541-d95ddf6f01c7",
+          "image3" : "https://firebasestorage.googleapis.com/v0/b/techmart-67117.appspot.com/o/31%2Fimage%20(2).jpg?alt=media&token=0c13cc99-a0a5-4485-95ce-75f2d076ec5a",
+          "image4" : "https://firebasestorage.googleapis.com/v0/b/techmart-67117.appspot.com/o/31%2Fimage%20(4).jpg?alt=media&token=c47ee803-eb6c-425a-8beb-036c98a59852"
+        },
+        "Month" : "January",
+        "Year"  : "2019",
+        "Brand" : "Apple",
+        "Quality" : 92,
+        "Category" : "Smartphones"
+
+      },
+      "32" : {
+        "Initial Products" : 100,
+        "No of items Left" : 70,
+        "No of items Sold" : 30,
+        "Price" : 99000,
+        "Product Name" : "Apple iPhone 11 PRO",
+        "ProductID" : 32,
+        "Description" : {
+          "line1" : "5.8-inch Super Retina XDR OLED display",
+          "line2" : "Water and dust resistant (4 meters for up to 30 minutes, IP68)",
+          "line3" : "Triple-camera system with 12MP Ultra Wide, Wide, and Telephoto cameras; Night mode, Portrait mode, and 4K video up to 60fps",
+          "line4" : "A13 Bionic chip with third-generation Neural Engine"
+        },
+        "images" : {
+          "icon" : "https://firebasestorage.googleapis.com/v0/b/techmart-67117.appspot.com/o/32%2Ficon.webp?alt=media&token=36380aff-64a0-491b-8cd6-735e0f24ea30",
+          "image1" : "https://firebasestorage.googleapis.com/v0/b/techmart-67117.appspot.com/o/32%2Fimage%20(1).jpg?alt=media&token=f3440841-a915-43c2-bb64-8097dfea9b7a",
+          "image2" : "https://firebasestorage.googleapis.com/v0/b/techmart-67117.appspot.com/o/32%2Fimage%20(2).jpg?alt=media&token=f6f6ac0d-02e0-47c5-b2e4-8c6ad9ad45e4",
+          "image3" : "https://firebasestorage.googleapis.com/v0/b/techmart-67117.appspot.com/o/32%2Fimage%20(3).jpg?alt=media&token=f3e980fc-2133-465d-9266-134ac617d381",
+          "image4" : "https://firebasestorage.googleapis.com/v0/b/techmart-67117.appspot.com/o/32%2Fimage%20(4).jpg?alt=media&token=0215949d-1895-4aef-8aea-1727f89907e3"
+        },
+        "Month" : "January",
+        "Year"  : "2019",
+        "Brand" : "Apple",
+        "Quality" : 89,
+        "Category" : "Smartphones"
+
+      },
+      "33" : {
+        "Initial Products" : 100,
+        "No of items Left" : 70,
+        "No of items Sold" : 30,
+        "Price" : 46000,
+        "Product Name" : "OnePlus 7 PRO",
+        "ProductID" : 33,
+        "Description" : {
+          "line1" : "Rear Camera - 48MP (Primary) + 8MP (Tele-photo)+16MP (Ultrawide) | Front Camera - 16 MP POP-UP Camera",
+          "line2" : "Memory, Storage and SIM: 6GB RAM | 128GB internal memory | Dual SIM dual-standby (4G+4G)",
+          "line3" : "16.9 centimeters (6.67-inch) multi-touch capacitive touchscreen with 3120 x 1440 pixels resolution",
+          "line4" : "Android Oxygen operating system with 2.84GHz Snapdragon 855 octa core processor"
+        },
+        "images" : {
+          "icon" : "https://firebasestorage.googleapis.com/v0/b/techmart-67117.appspot.com/o/33%2Ficon.png?alt=media&token=130e457c-c502-4489-acdc-091fb20151d1",
+          "image1" : "https://firebasestorage.googleapis.com/v0/b/techmart-67117.appspot.com/o/33%2Fimage%20(1).jpg?alt=media&token=b71f3447-3b70-4b84-acda-e943a8b741ff",
+          "image2" : "https://firebasestorage.googleapis.com/v0/b/techmart-67117.appspot.com/o/33%2Fimage%20(2).jpg?alt=media&token=88f0b402-aed8-4fb6-978f-94f6cca4fe11",
+          "image3" : "https://firebasestorage.googleapis.com/v0/b/techmart-67117.appspot.com/o/33%2Fimage%20(3).jpg?alt=media&token=2fca7b7e-06f4-4198-b3f4-f8506d717015",
+          "image4" : "https://firebasestorage.googleapis.com/v0/b/techmart-67117.appspot.com/o/33%2Fimage%20(4).jpg?alt=media&token=01785826-ac0a-4d34-992d-5c6ad7df8f70"
+        },
+        "Month" : "January",
+        "Year"  : "2019",
+        "Brand" : "OnePlus",
+        "Quality" : 90,
+        "Category" : "Smartphones"
+
+      },
+      "34" : {
+        "Initial Products" : 100,
+        "No of items Left" : 70,
+        "No of items Sold" : 30,
+        "Price" : 53999,
+        "Product Name" : "OnePlus 7T PRO",
+        "ProductID" : 34,
+        "Description" : {
+          "line1" : "48+8+16MP triple rear camera with telephoto lens + ultrawide angle lens | 16MP front camera with 4K video capture @ 30/60 FPS, ultrashot, nightscape, portrait, pro mode, panorama, HDR, AI scene detection, RAW image",
+          "line2" : "16.94 centimeters (6.67 inch) 90Hz fluid display with 3120 x 1440 pixels resolution and 516 ppi pixel density",
+          "line3" : "Memory, Storage & SIM: 8GB RAM | 256GB internal memory | Dual SIM (nano+nano) dual-standby (4G+4G)",
+          "line4" : "Oxygen OS based on Android v10 operating system with 2.96GHz Qualcomm Snapdragon 855 Plus AI Engine octa-core, 7nm processor, Adreno 640"
+        },
+        "images" : {
+          "icon" : "https://firebasestorage.googleapis.com/v0/b/techmart-67117.appspot.com/o/34%2Ficon.webp?alt=media&token=c036788b-78ab-4ae2-b0e1-ac586d44181c",
+          "image1" : "https://firebasestorage.googleapis.com/v0/b/techmart-67117.appspot.com/o/34%2Fimage%20(1).jpg?alt=media&token=64eb12a7-b76d-420c-a96d-022484f255b2",
+          "image2" : "https://firebasestorage.googleapis.com/v0/b/techmart-67117.appspot.com/o/34%2Fimage%20(2).jpg?alt=media&token=2a928358-e8ee-41a6-b594-77272ed5eac6",
+          "image3" : "https://firebasestorage.googleapis.com/v0/b/techmart-67117.appspot.com/o/34%2Fimage%20(3).jpg?alt=media&token=b57c5c3f-e1aa-4445-9437-747b844fa3c4",
+          "image4" : "https://firebasestorage.googleapis.com/v0/b/techmart-67117.appspot.com/o/34%2Fimage%20(4).jpg?alt=media&token=c29a1980-eb0f-47d8-9ea1-9a49e806a43f"
+        },
+        "Month" : "January",
+        "Year"  : "2019",
+        "Brand" : "OnePlus",
+        "Quality" : 92,
+        "Category" : "Smartphones"
+
+      },
+      "35" : {
+        "Initial Products" : 100,
+        "No of items Left" : 70,
+        "No of items Sold" : 30,
+        "Price" : 79999,
+        "Product Name" : "Samsung Galaxy Note 10+",
+        "ProductID" : 35,
+        "Description" : {
+          "line1" : "Quad Rear Camera - 16MP (Ultra wide) + 12MP (Dual Aperture - F 1.5/2.4)+ 12MP (Telephoto) + ToF (DepthVision Camera) with Flash | 10MP front camera",
+          "line2" : "17.16 centimeters (6.8-inch) Dynamic AMOLED Infinity O Display  with QHD+ resolution 3040 X 1440 (498 ppi), HDR10+ Certified",
+          "line3" : "Android Pie v9.0 operating system with 2.7GHz Exynos 9825 octa core processor",
+          "line4" : "Other Features :- Ultrasonic in-display fingerprint sensor, Bluetooth enabled Air Actions for S Pen, Dex mode with Usb cable"
+        },
+        "images" : {
+          "icon" : "https://firebasestorage.googleapis.com/v0/b/techmart-67117.appspot.com/o/35%2Ficon.webp?alt=media&token=1cec5515-4720-4854-bece-58fe8403f6db",
+          "image1" : "https://firebasestorage.googleapis.com/v0/b/techmart-67117.appspot.com/o/35%2Fimage%20(1).jpg?alt=media&token=d54796cb-4728-4b9d-83b4-3cd2a5c8aee3",
+          "image2" : "https://firebasestorage.googleapis.com/v0/b/techmart-67117.appspot.com/o/35%2Fimage%20(2).jpg?alt=media&token=cd5725e0-059a-4551-8a6a-262c4cf37437",
+          "image3" : "https://firebasestorage.googleapis.com/v0/b/techmart-67117.appspot.com/o/35%2Fimage%20(3).jpg?alt=media&token=46fab00a-4088-499b-9bb9-cad532abcd52",
+          "image4" : "https://firebasestorage.googleapis.com/v0/b/techmart-67117.appspot.com/o/35%2Fimage%20(4).jpg?alt=media&token=6a3bcf87-d1f3-4fca-be60-34eb68e7bb61"
+        },
+        "Month" : "January",
+        "Year"  : "2019",
+        "Brand" : "Samsung",
+        "Quality" : 79,
+        "Category" : "Smartphones"
+
+      },
+      "36" : {
+        "Initial Products" : 100,
+        "No of items Left" : 70,
+        "No of items Sold" : 30,
+        "Price" : 113900,
+        "Product Name" : "Samsung Galaxy S10+",
+        "ProductID" : 36,
+        "Description" : {
+          "line1" : "Triple rear camera setup: 16MP with f2.2 aperture ultra wide + 12MP with f1.5 and f2.4 aperture wide + 12MP f2.4 tele| Dual front camera setup - 10MP f1.9 Main + 8MP f2.2 live focus",
+          "line2" : "16.35 centimeters (6.4-inch) Dynamic AMOLED multi-touch capacitive touchscreen with 3040 x 1440 pixels resolution, 522 ppi pixel density",
+          "line3" : "Memory, Storage and SIM: 8GB RAM | 512GB internal memory expandable up to 512GB | Dual SIM (nano+nano) dual stand by (4G+4G)",
+          "line4" : "Android Pie v9.0 operating system with 2.7GHz + 2.3GHz + 1.9GHz Exynos 9820 octa core processor"
+        },
+        "images" : {
+          "icon" : "https://firebasestorage.googleapis.com/v0/b/techmart-67117.appspot.com/o/36%2Ficon.webp?alt=media&token=08602955-0e06-4169-b2ff-b24c9629dd75",
+          "image1" : "https://firebasestorage.googleapis.com/v0/b/techmart-67117.appspot.com/o/36%2Fimage%20(1).jpg?alt=media&token=959aca32-0098-4383-b457-65bde12f60a8",
+          "image2" : "https://firebasestorage.googleapis.com/v0/b/techmart-67117.appspot.com/o/36%2Fimage%20(2).jpg?alt=media&token=6e2ca98f-0b81-4227-939b-8cef97da71e5",
+          "image3" : "https://firebasestorage.googleapis.com/v0/b/techmart-67117.appspot.com/o/36%2Fimage%20(3).jpg?alt=media&token=87e480c8-91f5-478d-80c4-c1c1be3f5220",
+          "image4" : "https://firebasestorage.googleapis.com/v0/b/techmart-67117.appspot.com/o/36%2Fimage%20(4).jpg?alt=media&token=13d2ef63-3750-4188-962e-100fe8a80508"
+        },
+        "Month" : "January",
+        "Year"  : "2019",
+        "Brand" : "Samsung",
+        "Quality" : 80,
+        "Category" : "Smartphones"
+
+      },
+      "41" : {
+        "Initial Products" : 100,
+        "No of items Left" : 70,
+        "No of items Sold" : 30,
+        "Price" : 25990,
+        "Product Name" : "Canon EOS 1500D",
+        "ProductID" : 41,
+        "Description" : {
+          "line1" : "Sensor: APS-C CMOS Sensor with 24.1 MP (high resolution for large prints and image cropping)",
+          "line2" : "ISO: 100-6400 sensitivity range (critical for obtaining grain-free pictures, especially in low light)",
+          "line3" : "Image Processor: DIGIC 4+ with 9 autofocus points (important for speed and accuracy of autofocus and burst photography)",
+          "line4" : "Video Resolution: Full HD video with fully manual control and selectable frame rates (great for precision and high-quality video work)"
+        },
+        "images" : {
+          "icon" : "https://firebasestorage.googleapis.com/v0/b/techmart-67117.appspot.com/o/41%2Ficon.webp?alt=media&token=f9c06d7d-c4e0-4c02-9c04-6085ba64956f",
+          "image1" : "https://firebasestorage.googleapis.com/v0/b/techmart-67117.appspot.com/o/41%2Fimage%20(1).jpg?alt=media&token=baed1ed5-723f-4c11-9c4a-5d75ffe3933a",
+          "image2" : "https://firebasestorage.googleapis.com/v0/b/techmart-67117.appspot.com/o/41%2Fimage%20(2).jpg?alt=media&token=aa9ed24f-9b0f-40b4-bbaa-cc97d8464c0a",
+          "image3" : "https://firebasestorage.googleapis.com/v0/b/techmart-67117.appspot.com/o/41%2Fimage%20(3).jpg?alt=media&token=56b337c6-c4c8-484d-b5cf-cae488525adb",
+          "image4" : "https://firebasestorage.googleapis.com/v0/b/techmart-67117.appspot.com/o/41%2Fimage%20(4).jpg?alt=media&token=2d6b27ec-3291-4fdf-9407-e789872db55f"
+        },
+        "Month" : "January",
+        "Year"  : "2019",
+        "Brand" : "Canon",
+        "Quality" : 82,
+        "Category" : "TV and Cams"
+
+      },
+      "42" : {
+        "Initial Products" : 100,
+        "No of items Left" : 70,
+        "No of items Sold" : 30,
+        "Price" : 241000,
+        "Product Name" : "LG 75-inch 4K UHD TV",
+        "ProductID" : 42,
+        "Description" : {
+          "line1" : "Resolution: 4K Ultra HD (3840 x 2160) | Refresh Rate: 100 hertz",
+          "line2" : "Connectivity: 4 HDMI ports to connect set top box, Blu Ray players, gaming console | 3 USB ports to connect hard drives and other USB devices",
+          "line3" : "Smart TV Features : ThinQ AI, Nano cell colour display, α7 intelligent processor",
+          "line4" : "Display : LED Panel | Billion rich colours | 4K Cinema HDR with Dolby Vision"
+        },
+        "images" : {
+          "icon" : "https://firebasestorage.googleapis.com/v0/b/techmart-67117.appspot.com/o/42%2Ficon.webp?alt=media&token=fdb88ed6-767c-46e5-bc62-a7fa35a7d4a8",
+          "image1" : "https://firebasestorage.googleapis.com/v0/b/techmart-67117.appspot.com/o/42%2Fimage%20(1).jpg?alt=media&token=ab3c9809-ef26-4543-8337-231c9bf33f01",
+          "image2" : "https://firebasestorage.googleapis.com/v0/b/techmart-67117.appspot.com/o/42%2Fimage%20(2).jpg?alt=media&token=38b6ea81-74ac-4ccc-bd6a-006e8bbc3d0b",
+          "image3" : "https://firebasestorage.googleapis.com/v0/b/techmart-67117.appspot.com/o/42%2Fimage%20(3).jpg?alt=media&token=89f508b3-450e-4128-9002-42eb8bdd6914",
+          "image4" : "https://firebasestorage.googleapis.com/v0/b/techmart-67117.appspot.com/o/42%2Fimage%20(4).jpg?alt=media&token=74384fef-afb6-48a3-b0ed-fe28ca510fe1"
+        },
+        "Month" : "January",
+        "Year"  : "2019",
+        "Brand" : "LG",
+        "Quality" : 97,
+        "Category" : "TV and Cams"
+
+      },
+      "43" : {
+        "Initial Products" : 100,
+        "No of items Left" : 70,
+        "No of items Sold" : 30,
+        "Price" : 25499,
+        "Product Name" : "Nikon D5300 Digital SLR Camera",
+        "ProductID" : 43,
+        "Description" : {
+          "line1" : "Sensor: APS-C CMOS Sensor with 24.2 MP (high resolution for large prints and image cropping)",
+          "line2" : "ISO: 100-12800 sensitivity range (critical for obtaining grain-free pictures, especially in low light)",
+          "line3" : "Image Processor: Expeed 4 with 39 autofocus points (important for speed and accuracy of autofocus and burst photography)",
+          "line4" : "Video Resolution: Full HD video with fully manual control and selectable frame rates (great for precision and high-quality video work)"
+        },
+        "images" : {
+          "icon" : "https://firebasestorage.googleapis.com/v0/b/techmart-67117.appspot.com/o/43%2Ficon.webp?alt=media&token=a1c20221-1b44-4a69-86c7-a56f9af3540d",
+          "image1" : "https://firebasestorage.googleapis.com/v0/b/techmart-67117.appspot.com/o/43%2Fimage%20(1).jpg?alt=media&token=f49467ea-76ac-4f36-9288-11afaf8cb3a4",
+          "image2" : "https://firebasestorage.googleapis.com/v0/b/techmart-67117.appspot.com/o/43%2Fimage%20(2).jpg?alt=media&token=964deb13-4e7a-43da-a162-3cba225f011c",
+          "image3" : "https://firebasestorage.googleapis.com/v0/b/techmart-67117.appspot.com/o/43%2Fimage%20(3).jpg?alt=media&token=ca9672d5-1d8d-485a-97b6-cfa681880704",
+          "image4" : "https://firebasestorage.googleapis.com/v0/b/techmart-67117.appspot.com/o/43%2Fimage%20(4).jpg?alt=media&token=15909d9a-84f7-47a2-ae7f-aedb0ea37c03"
+        },
+        "Month" : "January",
+        "Year"  : "2019",
+        "Brand" : "Nikon",
+        "Quality" : 72,
+        "Category" : "TV and Cams"
+
+      },
+      "44" : {
+        "Initial Products" : 100,
+        "No of items Left" : 70,
+        "No of items Sold" : 30,
+        "Price" : 99900,
+        "Product Name" : "OnePlus TV 55-inch",
+        "ProductID" : 44,
+        "Description" : {
+          "line1" : "Resolution: 4K Ultra HD (3840x2160) | Motion Rate 480 Hertz",
+          "line2" : "Connectivity: 4 HDMI ports (HDMI 2 supports ARC) to connect set top box, Blu Ray players, gaming console | 3 USB port to connect hard drives and other USB devices",
+          "line3" : "Sound : 50 Watts Output | Alluring sound | Dolby Atmos | Full range 4 Speaker | 2 Tweeter | 2 Sub-woofer",
+          "line4" : "Smart TV Features : Built-In Wifi | Android TV | Google assistant | Oxygen OS with Android Pie (9) | RAM 3 GB | 16 GB Storage | CPU: A53*4 | OnePlus PQ Engine Gamma Color Magic | Chromecast Built-in |OxygenPlay VOD selection | Screen casting | OnePlus Connect Mobile Sync and control | Bluetooth Stereo mode | File browser(local media player)"
+        },
+        "images" : {
+          "icon" : "https://firebasestorage.googleapis.com/v0/b/techmart-67117.appspot.com/o/44%2Ficon.webp?alt=media&token=76fb068c-ae0f-4dc7-afb3-0822992d8062",
+          "image1" : "https://firebasestorage.googleapis.com/v0/b/techmart-67117.appspot.com/o/44%2Fimage%20(1).jpg?alt=media&token=51c4e587-07f2-48de-a116-95012b0c2b68",
+          "image2" : "https://firebasestorage.googleapis.com/v0/b/techmart-67117.appspot.com/o/44%2Fimage%20(2).jpg?alt=media&token=e5bb1b92-f34d-4630-b1eb-0eaa2b424f01",
+          "image3" : "https://firebasestorage.googleapis.com/v0/b/techmart-67117.appspot.com/o/44%2Fimage%20(4).jpg?alt=media&token=cb87e14f-8321-45e0-bff5-6d9ec1df228c",
+          "image4" : "https://firebasestorage.googleapis.com/v0/b/techmart-67117.appspot.com/o/44%2Fimage%20(3).jpg?alt=media&token=6f7b2b29-133b-473a-8147-8fba9cb22acf"
+        },
+        "Month" : "January",
+        "Year"  : "2019",
+        "Brand" : "OnePlus",
+        "Quality" : 87,
+        "Category" : "TV and Cams"
+
+      },
+      "45" : {
+        "Initial Products" : 100,
+        "No of items Left" : 70,
+        "No of items Sold" : 30,
+        "Price" : 84000,
+        "Product Name" : "Samsung OLED TV",
+        "ProductID" : 45,
+        "Description" : {
+          "line1" : "Resolution: 4K UHD (3840x2160) | Refresh Rate: 60 hertz",
+          "line2" : "Connectivity: 2 HDMI ports to connect set top box, Blu Ray players, gaming console | 1 USB port to connect hard drives and other USB devices",
+          "line3" : "Display : Real 4K UHD |Slim and stylish design",
+          "line4" : "Universal guide : It shows you popular shows and content, it recommends content specifically to your viewing preference by analysing your viewing pattern over the past few months"
+        },
+        "images" : {
+          "icon" : "https://firebasestorage.googleapis.com/v0/b/techmart-67117.appspot.com/o/45%2Ficon.png?alt=media&token=f156fccd-c82c-47c6-a100-4aeb45b5b42c",
+          "image1" : "https://firebasestorage.googleapis.com/v0/b/techmart-67117.appspot.com/o/45%2Fimage%20(1).jpg?alt=media&token=ae3d12cb-d5ed-4e52-80bf-9c801051fae8",
+          "image2" : "https://firebasestorage.googleapis.com/v0/b/techmart-67117.appspot.com/o/45%2Fimage%20(2).jpg?alt=media&token=70ee72f6-0ac0-4576-a77e-e6914dff4f50",
+          "image3" : "https://firebasestorage.googleapis.com/v0/b/techmart-67117.appspot.com/o/45%2Fimage%20(3).jpg?alt=media&token=3a5936bd-2ee4-4875-aaf8-3a43a59677c1",
+          "image4" : "https://firebasestorage.googleapis.com/v0/b/techmart-67117.appspot.com/o/45%2Fimage%20(4).jpg?alt=media&token=a643409f-ce0f-4fd7-8392-fac4ad348d5d"
+        },
+        "Month" : "January",
+        "Year"  : "2019",
+        "Brand" : "Samsung",
+        "Quality" : 84,
+        "Category" : "TV and Cams"
+
+      },
+      "46" : {
+        "Initial Products" : 100,
+        "No of items Left" : 70,
+        "No of items Sold" : 30,
+        "Price" : 97990,
+        "Product Name" : "Sony ALPHA ILCE-6400M",
+        "ProductID" : 46,
+        "Description" : {
+          "line1" : "Real time eye AF and real time tracking",
+          "line2" : "World fastest 0.02 Sec AF speed with 425 phase detection and contrast points",
+          "line3" : "24.2MP, EXMOR CMOS sensor with outstanding light sensitivity",
+          "line4" : "ISO sensitivity up to 102400"
+        },
+        "images" : {
+          "icon" : "https://firebasestorage.googleapis.com/v0/b/techmart-67117.appspot.com/o/46%2Ficon.webp?alt=media&token=085c5d8b-6c62-4151-b3d4-c20aae8cd250",
+          "image1" : "https://firebasestorage.googleapis.com/v0/b/techmart-67117.appspot.com/o/46%2Fimage%20(1).jpg?alt=media&token=6e6b980d-29d2-42c1-9d7a-0aa1e44adf3a",
+          "image2" : "https://firebasestorage.googleapis.com/v0/b/techmart-67117.appspot.com/o/46%2Fimage%20(2).jpg?alt=media&token=0e1287ab-795a-4e5c-ac2a-c44592bd229a",
+          "image3" : "https://firebasestorage.googleapis.com/v0/b/techmart-67117.appspot.com/o/46%2Fimage%20(3).jpg?alt=media&token=fb09eaca-0174-4dc8-bf84-94354063711d",
+          "image4" : "https://firebasestorage.googleapis.com/v0/b/techmart-67117.appspot.com/o/46%2Fimage%20(4).jpg?alt=media&token=e851fcb3-539d-4d6b-bda4-aca66535d500"
+        },
+        "Month" : "January",
+        "Year"  : "2019",
+        "Brand" : "Sony",
+        "Quality" : 92,
+        "Category" : "TV and Cams"
+
+      }
+  }
+}
